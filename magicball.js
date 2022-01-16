@@ -21,7 +21,7 @@ function changeImage() {
     if (image.src.match("bulbon")) {
       image.src = "https://cdn.discordapp.com/attachments/898333320688074824/917827782820642826/maxresdefaultedited.png";
     } else {
-      image.src = "zangetsu.jpeg";
+      image.src = "https://images.app.goo.gl/7nNgistBz9DfRmtcA";
       }
 
 
